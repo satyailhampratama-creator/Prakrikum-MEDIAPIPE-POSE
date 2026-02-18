@@ -1,0 +1,2 @@
+# Prakrikum-MEDIAPIPE-POSE
+Prakrikum MEDIAPIPE POSE
